@@ -1,3 +1,3 @@
-https://github.com/Dr-Phi/product-preview-card/blob/main/preview-desktop.png?raw=true
+https://raw.githubusercontent.com/Dr-Phi/product-preview-card/main/preview-desktop.png
 
-https://github.com/Dr-Phi/product-preview-card/blob/main/preview-mobile.png?raw=true
+https://raw.githubusercontent.com/Dr-Phi/product-preview-card/main/preview-mobile.png
